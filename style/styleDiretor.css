@@ -1,0 +1,26 @@
+body{
+    background-color: #18181B;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h1{
+    background-color: tomato;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    
+}
+nav a h2{
+    background-color: blueviolet;
+    padding: 5px;
+    border-radius: 10px;
+}
